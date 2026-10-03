@@ -1,0 +1,23 @@
+{
+  "project": "kiruthick-portfolio",
+  "framework": "Next.js + React + Tailwind CSS",
+  "deployment": "Vercel",
+  "included_assets": [
+    "README.md",
+    "tailwind.config.ts",
+    "package.json",
+    ".gitignore",
+    "tsconfig.json",
+    "next.config.mjs",
+    "next-env.d.ts",
+    "postcss.config.mjs",
+    "app/layout.tsx",
+    "app/page.tsx",
+    "app/globals.css",
+    "public/documents/college-certificates.pdf",
+    "public/documents/resume.pdf",
+    "public/documents/kaynes-internship-certificate.jpg",
+    "public/documents/trackbot-26.pdf",
+    "public/images/profile.jpg"
+  ]
+}
